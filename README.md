@@ -25,13 +25,13 @@ Site Capitals of europe
 
 ## Visualização
 
-Aqui está uma prévia de como o site aparece(Clique na video caso queira acessar o site)
-[<video src="./src/images/Gravando.mp4" loop></video>]()
+Aqui está uma prévia de como o site aparece(Clique na foto caso queira acessar o site)
+[<img src="./src/images/tela.png" loop>](https://guilherme-silvam.github.io/capitals-of-europe/)
 
 ## Contato
 
 - E-mail: guisilvam19@gmail.com ou  guilhermemachado019@gmail.com
-- Projeto Link: 
+- Projeto Link: https://guilherme-silvam.github.io/capitals-of-europe/
 
 
 
@@ -65,10 +65,10 @@ Site Capitals of Europe
 
 ## Preview
 
-Here is a preview of what the site looks like (Click on the video if you want to access the site)
-[<video src="./src/images/Gravando.mp4" loop></video>]()
+Here is a preview of what the site looks like (Click on the image if you want to access the site)
+[<img src="./src/images/tela.png" loop>](https://guilherme-silvam.github.io/capitals-of-europe/)
 
 ## Contact
 
 - Email: guisilvam19@gmail.com or guilhermemachado019@gmail.com
-- Project Link:
+- Project Link:https://guilherme-silvam.github.io/capitals-of-europe/
