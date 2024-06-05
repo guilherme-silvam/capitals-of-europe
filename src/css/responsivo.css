@@ -1,0 +1,30 @@
+@media (max-width: 992px) {  
+    .conteudo{
+        margin:auto;
+        width: 300px;
+        padding: 45px 40px;
+    }
+
+    .conteudo .titulo {
+        font-size: 2.5rem;
+        margin-bottom: 60px;
+    }
+    
+    .conteudo .texto{
+        font-size: 1.5rem;
+    }
+    
+    .conteudo .botao{
+        font-size: 2rem;
+    }
+}
+
+@media (max-width: 430px) {  
+    .conteudo{
+        margin:auto;
+        width: 230px;
+        padding: 45px 40px;
+    }
+
+}
+
